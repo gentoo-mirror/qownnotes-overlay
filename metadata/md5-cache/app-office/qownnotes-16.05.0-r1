@@ -8,5 +8,5 @@ LICENSE=GPL-2
 RDEPEND=dev-qt/qtwidgets:5 dev-qt/qtgui:5 dev-qt/qtcore:5 dev-qt/qtsql:5 dev-qt/qtsvg:5 dev-qt/qtnetwork:5 dev-qt/qtscript:5 dev-qt/qtprintsupport:5
 SLOT=0
 SRC_URI=https://github.com/pbek/QOwnNotes/archive/e018b9546bb4a35c34d2e93f358287aa7a564905.tar.gz -> qownnotes-16.05.0.tar.gz https://github.com/pbek/qmarkdowntextedit/archive/b31976d2803f12504dca08aaf8b312ab306b46a5.tar.gz -> qmarkdowntextedit-b31976d2803f12504dca08aaf8b312ab306b46a5.tar.gz https://github.com/pbek/qt-piwik-tracker/archive/656771e33fd4af5039b5cf9131a958fd3a4dfd41.tar.gz -> piwiktracker-656771e33fd4af5039b5cf9131a958fd3a4dfd41.tar.gz
-_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	toolchain-funcs	1a94dc06d324bd0dab754e11abe6d27e	wrapper	4251d4c84c25f59094fd557e0063a974
+_eclasses_=edos2unix	33e347e171066657f91f8b0c72ec8773	eutils	2d5b3f4b315094768576b6799e4f926e	l10n	8cdd85e169b835d518bc2fd59f780d8e	multilib	d410501a125f99ffb560b0c523cd3d1e	qmake-utils	dc74fe3891abc25e80dad5cd3d7c6e47	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	wrapper	4251d4c84c25f59094fd557e0063a974
 _md5_=73ae1a67f615353120932a505406328c
